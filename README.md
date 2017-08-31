@@ -1,2 +1,2 @@
-# PreMAP2016
-Pre-Major in Astronomy Program: Cohort 12
+# PreMAP2017
+Pre-Major in Astronomy Program: Cohort 13
